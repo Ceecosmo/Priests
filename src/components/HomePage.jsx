@@ -4,7 +4,7 @@ import JESUS from '../assets/images/Jesus1sss.jpg'
 import About from '../assets/images/fada9.jpg'
 import ICON1 from '../assets/images/fada15.jpeg'
 import ICON2 from '../assets/images/fada15.jpeg'
-import ICON3 from '../assets/images/fada15.jpeg'
+
 import Card1 from './Card'
 import FORM from './Form'
 
@@ -16,7 +16,7 @@ function HomePage() {
 <div className="bg-image mt-0" >
 <div className="container text-light ">
             <div className="pt-5 text-center" data-aos="fade-down-right">
-            <h1 className='pt-5' style={{fontSize:'40px',fontWeight:'bold',marginTop:'60px'}}>
+            <h1 className='pt-5' style={{fontSize:'30px',fontWeight:'bold',marginTop:'55px'}}>
             Welcome to Catholic <span style={{color:'yellow'}}> <i className="fa-solid fa-plus"></i></span>Priests' Welfare Home Awka 
             </h1>
             <p style={{fontSize:'24px', fontWeight:'700px'}}>A Home of Peace. 
